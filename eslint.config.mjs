@@ -9,6 +9,8 @@ export default defineConfig([
     "out/**",
     "build/**",
     "next-env.d.ts",
+    ".venv/**",
+    "backend/**",
     "backend/venv/**",
     "backend/staticfiles/**",
   ]),
